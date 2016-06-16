@@ -21,26 +21,26 @@
         "name": "IOTProject.xdk"
       },
       "IOTProject.xdke": {
-        "previousModTime": 1465844342659,
-        "modified": 1465844342659,
+        "previousModTime": 1466026748559,
+        "modified": 1466026748559,
         "seen": true,
         "name": "IOTProject.xdke"
       },
       "main.js": {
-        "previousModTime": 1465783588718,
-        "modified": 1465783588718,
+        "previousModTime": 1466004381630,
+        "modified": 1466004381630,
         "seen": true,
         "name": "main.js"
       },
       "package.json": {
-        "previousModTime": 1465833513914,
-        "modified": 1465833513914,
+        "previousModTime": 1466012545906,
+        "modified": 1466012545906,
         "seen": true,
         "name": "package.json"
       },
       "README.md": {
-        "previousModTime": 1465406514437,
-        "modified": 1465406514437,
+        "previousModTime": 1465866578506,
+        "modified": 1465866578506,
         "seen": true,
         "name": "README.md"
       },
@@ -57,14 +57,14 @@
         "name": "app/OnBoardLed.js"
       },
       "app/SocketClient.js": {
-        "previousModTime": 1465702708159,
-        "modified": 1465702708159,
+        "previousModTime": 1465954207053,
+        "modified": 1465954207053,
         "seen": true,
         "name": "app/SocketClient.js"
       },
       "app/BoardController.js": {
-        "previousModTime": 1465844377863,
-        "modified": 1465844377863,
+        "previousModTime": 1466004631156,
+        "modified": 1466004631156,
         "seen": true,
         "name": "app/BoardController.js"
       },
@@ -85,13 +85,21 @@
         "modified": 1465692590720,
         "seen": true,
         "name": "xdk-publish-meta-data.json"
+      },
+      ".gitignore": {
+        "previousModTime": 1465850254500,
+        "modified": 1465850254500,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "app/MixpanelClient.js": {
+        "previousModTime": 1465874577821,
+        "modified": 1465874577821,
+        "seen": true,
+        "name": "app/MixpanelClient.js"
       }
     },
-    "boardFileStatus": {
-      "app/BoardController.js": {
-        "previousModTime": 1465844380936
-      }
-    }
+    "boardFileStatus": {}
   },
   "editorTab": {
     "currentEditorMode": 0

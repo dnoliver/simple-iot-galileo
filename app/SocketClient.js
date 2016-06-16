@@ -5,7 +5,6 @@ var EventEmitter = require('events').EventEmitter;
 var SocketClient = {
     init: function () {
         console.log("SocketClient","init");
-        //this.socket = io.connect("https://simpleiotbackend.herokuapp.com/");
         this.EventEmitter = new EventEmitter();
         this.socket = io.connect(config.WebSocketEndpoint);
         this.socket.on("connect", this.onConnect.bind(this));

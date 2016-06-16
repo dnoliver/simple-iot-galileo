@@ -7,9 +7,12 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-      "socket.io-client": "*"
+      "socket.io-client": "*",
+      "mixpanel": "*"
   },
   "config": {
-    "WebSocketEndpoint": "https://simpleiotbackend.herokuapp.com/"
+    "WebSocketEndpoint": "https://simpleiotbackend.herokuapp.com/",
+    "MixpanelTracker": "3a0c5b2725a333f31b0a75c70c1487fc",
+    "SensingInterval": 5000
   }
 }
